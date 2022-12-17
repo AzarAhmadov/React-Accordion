@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1> React Accardion project </h1>
+      <h1> React Accordion project </h1>
       <Faq title='Question 1' active={active} setActive={setActive} />
       <Faq title='Question 2' active={active} setActive={setActive} />
       <Faq title='Question 3' active={active} setActive={setActive} />
